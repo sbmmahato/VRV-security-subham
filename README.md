@@ -2,8 +2,6 @@
 
 A modern, responsive Role-Based Access Control (RBAC) dashboard built with React, TypeScript, and Tailwind CSS. This application provides a comprehensive interface for managing users, roles, and permissions in a secure environment.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=2000)
-
 ## Features
 
 ### 🔐 User Management
@@ -41,7 +39,6 @@ A modern, responsive Role-Based Access Control (RBAC) dashboard built with React
 - **State Management**: React Context API
 - **Build Tool**: Vite
 - **Type Checking**: TypeScript
-- **Code Quality**: ESLint
 
 ## Getting Started
 
@@ -125,16 +122,7 @@ The project uses Tailwind CSS with custom configurations:
 - Animation classes
 - Custom component classes
 
-### Custom UI Components
 
-```css
-.btn-primary    # Primary action buttons
-.btn-secondary  # Secondary action buttons
-.input-primary  # Form input fields
-.card          # Container components
-.nav-item      # Navigation elements
-.status-badge  # Status indicators
-```
 
 ## Security Considerations
 
@@ -144,33 +132,5 @@ The project uses Tailwind CSS with custom configurations:
 - Protected routes and actions
 - Error handling and validation
 
-## Best Practices
 
-- Modular component architecture
-- TypeScript for type safety
-- Consistent code formatting
-- Performance optimizations
-- Accessibility compliance
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, email support@vrvsecurity.com or open an issue in the repository.
-
-## Acknowledgments
-
-- Inter font by Google Fonts
-- Lucide React for icons
-- Tailwind CSS for styling
-- React team for the amazing framework
