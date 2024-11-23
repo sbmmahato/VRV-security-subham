@@ -47,8 +47,8 @@ const initialRoles: Role[] = [
 const initialUsers: User[] = [
   { id: '1', name: 'John Doe', email: 'john@vrv.com', role: 'Admin', status: 'active' },
   { id: '2', name: 'Jane Smith', email: 'jane@vrv.com', role: 'Manager', status: 'active' },
-  { id: '3', name: 'James Smeeth', email: 'James@vrv.com', role: 'User', status: 'inactive' },
-  { id: '4', name: 'Alex Mercer', email: 'Alex@vrv.com', role: 'User', status: 'inactive' },
+  { id: '3', name: 'James Smeeth', email: 'james@vrv.com', role: 'User', status: 'inactive' },
+  { id: '4', name: 'Alex Mercer', email: 'alex@vrv.com', role: 'User', status: 'inactive' },
   { id: '5', name: 'Bob Wilson', email: 'bob@vrv.com', role: 'User', status: 'inactive' }
 ];
 
